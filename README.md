@@ -5,19 +5,19 @@
 
 - 🌱 I’m currently learning **Laravel, React and Others**
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/KevinMaulanaAtmaja)
+- 👯 I’m looking to collaborate on [Github](https://github.com/KevinMaulanaAtmaja){:target="_blank"}
 
-- 🤝 I’m looking for help with [Donation](https://saweria.co/kevinma)
+- 🤝 I’m looking for help with [Donation](https://saweria.co/kevinma){:target="_blank"}
 
-- 👨‍💻 All of my projects are available at [Github Pages](https://kevinmaulanaatmaja.github.io)
+- 👨‍💻 All of my projects are available at [Github Pages](https://kevinmaulanaatmaja.github.io){:target="_blank"}
 
-- 📝 I regularly write articles on [Wordpress](https://akumahpemula.wordpress.com)
+- 📝 I regularly write articles on [Wordpress](https://akumahpemula.wordpress.com){:target="_blank"}
 
 - 💬 Ask me about **Tech, School, Anime and Others😁**
 
 - 📫 How to reach me **kevinmaulanaat@gmail.com**
 
-- 📄 Know about my experiences [Showwcase](https://showwcase.com/kevinmaulanaatmaja)
+- 📄 Know about my experiences [Showwcase](https://showwcase.com/kevinmaulanaatmaja){:target="_blank"}
 
 - ⚡ Fun fact **I'm a loli hunter :D**
 
