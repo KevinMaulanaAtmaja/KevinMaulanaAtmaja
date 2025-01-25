@@ -1,29 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kevin Maulana Atmaja</h1>
-<h3 align="center">Just a student who likes loli 😋</h3>
 
-- 🏫 I'm currently studying at **SMKN 1 Bangil**
 
-- 🌱 I’m currently learning **Laravel, React and Others**
+- 🏫 I'm currently studying at **POLIWANGI**
+
+- 🌱 I’m currently learning **Dart, NextJS, ReactJs and Others**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/KevinMaulanaAtmaja)
 
-- 🤝 I’m looking for help with [Donation](https://saweria.co/kevinma)
-
-- 👨‍💻 All of my projects are available at [Github Pages](https://kevinmaulanaatmaja.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kevinmaulanaatmaja.github.io)
 
 - 📝 I regularly write articles on [Wordpress](https://akumahpemula.wordpress.com)
 
-- 💬 Ask me about **Tech, School, Anime and Others😁**
+- 💬 Ask me about **Tech, College, Anime and Others😁**
 
-- 📫 How to reach me **kevinmaulanaat@gmail.com**
 
 - 📄 Know about my experiences [Showwcase](https://showwcase.com/kevinmaulanaatmaja)
 
-- ⚡ Fun fact **I'm a loli hunter :D**
+- ⚡ Fun fact **I'm a Human :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:kevinmaulanaat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/gmail/gmail.svg" alt="gmail" height="30" width="30" /></a>
 <a href="https://instagram.com/kevin_use_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevin_use_p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-maulana-atmaja-03b7b129a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
