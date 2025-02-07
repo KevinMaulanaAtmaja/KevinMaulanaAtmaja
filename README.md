@@ -10,7 +10,7 @@
 
 ###
 
-<img style="border-radius: 20px;" align="right" height="200" src="https://s13.gifyu.com/images/SefW4.gif"  />
+<img align="right" height="200" src="https://s13.gifyu.com/images/SefW4.gif"  />
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<p align="left">🎲 And ... i like 🏛️ history and ♟ chess online</p>
+<p align="left">🎲 And i like 🏛️ history and ♟ chess online</p>
 
 ###
 
-<h2 align="left">🚀 My Stats</h2>
+<h2 align="left">🚀 My stats</h2>
 
 ###
 
@@ -177,7 +177,7 @@
 
 ###
 
-<img style="border-radius: 20px;" align="right" height="150" src="https://s7.gifyu.com/images/SefWL.gif"  />
+<img align="right" height="150" src="https://s7.gifyu.com/images/SefWL.gif"  />
 
 ###
 
